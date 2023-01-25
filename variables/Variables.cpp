@@ -11,8 +11,7 @@ int main()
     int day = 03;
     int month = 11;
     int year = 1989;
-    int decada=2020;
-
+    //
     cout << "Naci el: ";
     cout << day << endl;
     cout << "," << endl;
